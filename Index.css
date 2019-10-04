@@ -1,0 +1,79 @@
+html{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    border-color: solid red 1px;
+}
+
+#Title{
+    text-align: center;
+    font-size: 60px;
+}
+
+nav{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.Scratch{
+    align-content: center;
+}
+
+header{
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid red;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+a {
+    color: palevioletred;
+}
+
+a:hover{
+    color: green;
+}
+
+.project {
+    margin-bottom: 20px;
+    border-bottom: 1px solid red;
+}
+
+.embededscratch{
+    width: 500px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.Scratch{
+    float: center;
+}
+
+.Snap{
+    float: left;
+}
+
+.embededsnap{
+    
+    width: 500px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.projects{
+    margin: 30%;
+    width: 90%;
+    max-width: 600px;
+}

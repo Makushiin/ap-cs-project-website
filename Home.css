@@ -1,0 +1,17 @@
+body{
+    background-image: url('img/black.jpg')
+    
+}
+
+nav{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+#Title{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
