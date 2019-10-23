@@ -46,7 +46,7 @@ a:hover{
 
 .project {
     margin-bottom: 20px;
- 
+
 }
 
 .embededscratch{
@@ -65,7 +65,7 @@ a:hover{
 }
 
 .embededsnap{
-    
+
     width: 500px;
     align-content: center;
     margin-right: 10px;
@@ -81,4 +81,23 @@ h2{
     width: 90%;
     max-width: 1000px;
     align-content: center;
+}
+
+
+#projects, #aboutme  {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 600px;
+}
+
+.project {
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(0, 174, 255);
+}
+
+
+
+.project h2, #aboutme h2  {
+  font-size: 1.5em;
+  margin-bottom: 10px;
 }
